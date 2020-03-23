@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
         return 1;
     }
     printf("received packet from %s:\n",inet_ntoa(remote_addr.sin_addr));
-    buf[len]='/0';
+    buf[len]='\0';
     printf("contents: %s\n",buf);
 
     time_t t;
