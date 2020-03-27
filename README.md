@@ -1,6 +1,10 @@
 # Computer-Network
 School Assignment
 
+## Assignment-1:
+
+Before you begin, make sure you have installed cmake, make, build-essential
+
 build from scratch: 
 
 ```
