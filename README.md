@@ -3,9 +3,8 @@ School Assignment
 
 ## Assignment-1:
 
-Before you begin, make sure you have installed cmake, make, build-essential
+Before you begin, make sure you have installed cmake, make, build-essential package so that you can execute the following commands correctly
 
-build from scratch: 
 
 ```
 git clone https://github.com/MeepoAII/Computer-Network.git 
