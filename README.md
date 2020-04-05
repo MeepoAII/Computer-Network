@@ -19,3 +19,7 @@ make
 ```
 
 by the way, don't forget to update your name and ID in c file
+
+
+## Assignment-2:
+completed
