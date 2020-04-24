@@ -1,6 +1,7 @@
 # Computer-Network
 School Assignment
-
+  
+  
 ## Assignment-1:
 ![image](https://github.com/MeepoAII/Computer-Network/blob/master/images/assignment1.png)  
  
@@ -23,13 +24,18 @@ make
 ```
 
 by the way, don't forget to update your name and ID in c file
-
+  
+    
+    
 
 ## Assignment-2:
 ![image](https://github.com/MeepoAII/Computer-Network/blob/master/images/assignment2.png)  
   
   
-completed
+completed  
+  
+    
+    
 
 ## Assignment-3:
 ![image](https://github.com/MeepoAII/Computer-Network/blob/master/images/assignment3.png)  
